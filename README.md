@@ -46,3 +46,6 @@ Even without knowing which notes were real or fake, the model found **clear stru
 - Google Colab
 
 ---
+## 🔗 Project Link
+
+➡️https://github.com/hriiiidoy666/K-Means-Clustering

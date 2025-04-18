@@ -25,7 +25,7 @@ The dataset contains numerical features extracted from banknote images (e.g., va
 
 ## 📈 Results
 
-![KMeans Clustering Plot](./path-to-your-image.png) <!-- Replace with your actual path -->
+![KMeans Clustering Plot](<img width="428" alt="Image" src="https://github.com/user-attachments/assets/f913cc17-7b9e-434e-b6bb-5fd77aee44aa" />) <!-- Replace with your actual path -->
 
 The model discovered **two distinct groups** in the data:
 

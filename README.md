@@ -46,9 +46,3 @@ Even without knowing which notes were real or fake, the model found **clear stru
 - Jupyter Notebook / Google Colab
 
 ---
-
-## 🔗 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/banknote-kmeans.git

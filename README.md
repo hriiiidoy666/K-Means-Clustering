@@ -43,6 +43,6 @@ Even without knowing which notes were real or fake, the model found **clear stru
 - Pandas
 - Scikit-learn
 - Matplotlib
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ---

@@ -15,7 +15,7 @@ The dataset contains numerical features extracted from banknote images (e.g., va
 
 ## 🧠 What I Did
 
-- Preprocessed the data using normalization
+- Preprocessed the data 
 - Applied the **Elbow Method** to find the optimal number of clusters (k = 2)
 - Ran **K-Means clustering**
 - Visualized the clusters and centroids
